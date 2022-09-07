@@ -9,3 +9,4 @@ let isAllow = null;
 
 isAllow = isOver18 && hasNoCriminalBlacklist || !isThai;
 console.log(isAllow);
+
